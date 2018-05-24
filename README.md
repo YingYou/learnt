@@ -1,2 +1,2 @@
-## wxgame-snake
-微信小游戏，贪吃蛇
+Git is a distributed version control system.
+Git is free software.
